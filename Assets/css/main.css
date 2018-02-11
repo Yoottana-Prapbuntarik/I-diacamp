@@ -1,0 +1,257 @@
+
+body{
+background-color:#232323; 
+height: 100%;
+}
+
+
+
+
+#box1{
+	 /* The image used */
+    background-image: url('../../img/Parallax.jpg');
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#box3{
+	 /* The image used */
+    background-image: url('../../img/Parallax.jpg');
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+@font-face {
+    font-family: MorKhor;
+    src: url('css/MorKhor.ttf');
+}
+
+body .lead{
+	font-family: MorKhor;
+	text-align: center;
+}
+
+
+
+img {
+	 max-width: 40%;
+	height: auto;
+	margin: 0 0 auto auto;
+	border-radius:50%;
+
+}
+
+
+
+
+#Banner{
+	
+	background-image:url('../../img/fire.PNG');
+	width: auto;
+	background-repeat :repeat-x;
+	display: block;
+	text-align: center;
+	font-size: 20px;
+	color: #ffffff;
+}
+
+
+#Navbar {
+
+	background-color:#000000; 
+	
+
+	
+}
+.topnav{
+	background-color:#000000;
+} 
+.navbar-nav{
+	
+	margin-left: auto;
+	margin-right: auto; 
+	text-align: center;
+}
+
+
+
+
+
+.nav-item a:hover {
+
+  background-color:#222;
+
+}
+
+
+#about .jumbotron{
+	border-radius: 50px;
+}
+	
+
+#about{
+		padding: 10px;
+		background-color:#FF3333;
+}
+
+
+#ABOUT{
+	text-align: center;
+	color: white;
+
+}
+#ABOUT .jumbotron{
+	background-color: #756454;
+	
+}
+#ABOUT p{
+	text-align: center;
+}
+
+
+
+
+
+
+	
+
+#register-button{
+	text-align: center;
+	width: 150px;
+	margin: 0 auto 0 auto;
+	height: auto;
+	display: block;
+}
+
+
+
+
+.display-4{
+	color: orange;
+	font-family:serif;
+}
+
+.stress{
+	color: orange;
+	font-family:serif;
+}
+
+#Detail{
+
+	text-align: center;
+	border-radius:30%;
+	margin-right: auto;
+	margin-left: auto; 
+}
+
+
+#Detail .jumbotron{
+	border-radius: 50px; 
+
+
+	}
+#Detail h1{
+
+color: white;
+background-color: 
+}
+
+
+ 
+
+#Detail img{
+	
+	max-width: 100%;
+	margin: 0 auto 0 auto;
+	height: auto;
+	display: block;
+}
+
+
+#Detail img{
+
+	max-width: 100%;
+	margin: auto auto;
+	height: auto;
+	display: block;
+}
+
+
+#Schedule img{
+	max-width: 100%;
+	margin: auto auto;
+	height: auto;
+	display: block;
+}
+#Schedule p{
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+
+iframe {
+	max-width: 100%;
+	margin: auto auto;
+	width: 800px;
+	height: 600px;
+	display: block;
+}
+
+#LOCATION p{
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+#Faq{
+	text-align: center;
+	color: white;
+	font-family: MorKhor;
+	font-size: 30px; 
+
+}
+#Faq .alert{
+	width: 500px;
+	margin: 0 auto 0 auto;
+	max-width: 100%;
+
+}
+
+
+
+
+#Contact{
+text-align: center;
+	color: white;
+
+
+
+}
+
+
+
+
+#Copyright footer{
+	padding-top: auto;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+
+
+
